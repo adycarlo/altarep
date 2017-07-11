@@ -1,0 +1,11 @@
+{
+    plugins: ["packt-fontsettings"]
+}
+{
+    "pluginsConfig": {
+        "fontsettings": {
+            "family": 'sans',// 'serif' or 'sans',
+            "size": 2 // 1 - 4
+        }
+    }
+}
