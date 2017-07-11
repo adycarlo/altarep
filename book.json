@@ -5,7 +5,7 @@
     "pluginsConfig": {
         "fontsettings": {
             "family": 'sans',// 'serif' or 'sans',
-            "size": 2 // 1 - 4
+            "size": 4 // 1 - 4
         }
     }
 }
